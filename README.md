@@ -15,12 +15,7 @@ This is my very first Java program repository — created as part of my learning
 
 1. Make sure you have Java installed.
 2. Open terminal and run:
----
+   
+- 
 
-### Ab kar:
-- Ye sab paste kar de us `README.md` me
-- Neeche "Commit changes" dabaa de
-
-Ho gaya tera profile aur repo dono **clean & pro looking**!
-
-Bhai ready ho agla step ke liye? Java project upload, GitHub profile decorate, ya kuch aur?
+ **clean & pro lookining 
