@@ -1,26 +1,26 @@
 # first-java-program
-1. Make sure you have Java installed.
+
+## How to Run
+1. Make sure you have Java installed.  
 2. Open terminal and run:
-javac HelloWorld.java
-java HelloWorld
-Open terminal and run: Open terminal and run:
-My first Java program
+   ```bash
+   javac HelloWorld.java  
+   java HelloWorld
+   ```
+
+---
+
 # My First Java Program
 
 Hey there!  
 This is my very first Java program repository — created as part of my learning journey into programming and development.
 
 ## What does it do?
+This simple program prints `Hello, World!` to the console — the classic first step in learning any programming language.
 
 ## File Included
-
 - `HelloWorld.java` — The Java file with the main program.
 
-## How to Run
+---
 
-1. Make sure you have Java installed.
-2. Open terminal and run:
-   
-- 
-
- **clean & pro lookining 
+**Clean & professional looking**
