@@ -1,4 +1,9 @@
 # first-java-program
+1. Make sure you have Java installed.
+2. Open terminal and run:
+javac HelloWorld.java
+java HelloWorld
+Open terminal and run: Open terminal and run:
 My first Java program
 # My First Java Program
 
